@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Name>RoomArea</Name>
+		<Assembly>C:\ProgramData\Autodesk\Revit\Addins\2020\RoomArea\RoomArea.dll</Assembly>
+		<ClientId>ABD47DC8-1E83-496A-8F62-B02D96111713</ClientId>
+		<FullClassName>RoomArea.CommandRoomArea</FullClassName>
+		<VendorId>PiN</VendorId>
+		<VendorDescription>pizhurin@yahoo.com</VendorDescription>
+		<Text>RoomArea</Text>
+	</AddIn>
+</RevitAddIns>
